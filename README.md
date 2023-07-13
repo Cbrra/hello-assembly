@@ -1,5 +1,5 @@
 # hello-assembly
-Hello World in assembly on Linux.
+Hello World in assembly (Linux x86).
 <br/>Netwide Assembler: https://www.nasm.us/
 
 ```
